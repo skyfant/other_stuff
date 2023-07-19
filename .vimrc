@@ -1,7 +1,7 @@
 syntax on
 
 set tabstop=4   " set tab lenght to 4 spaces
-set expandtab   " use spaces instead of tabs
+"set expandtab   " use spaces instead of tabs
 
 set ignorecase  " ignore case while searching
 set incsearch   " highlight result while searching
